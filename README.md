@@ -13,6 +13,7 @@ Atualmente, sou estudante de desenvolvimento web na <a href="https://www.betrybe
 <li>Tenho muita vontade de conhecer lugares misteriosos pelo mundo</li>
 <li>Sou uma pessoa muito comunicativa e sociável</li>
 <li>Para entrar em contato comigo por favor me envie um email: 📫 mluiza.vcr@gmail.com</li>
+  
 ---
 
 <h3>Linguagens e ferramentas</h3>
