@@ -4,7 +4,7 @@
 ---
 
 <h3>Meu nome é Maria Luiza Rodrigues, sou de São Paulo - capital!
-Atualmente, sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank" rel="nofollow" style="color:#04AA6D">Trybe</a> estou terminando o bloco de back-end, tendo concluído os blocos de fundamentos e front-end, momentos de intensa aprendizagem.<h3>
+Sou formada no curso de desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank" rel="nofollow" style="color:#04AA6D">Trybe</a>, tendo concluído os blocos de fundamentos do desenvolvimento web, front-end e back-end, em  intensa aprendizagem.<h3>
 </br>
 <h3>Algumas coisas sobre mim</h5>
 <li> Meus hobbies 🤩 Gosto muito de ler livros e peças de teatro, assistir séries, viajar e fazer teatro </li>
