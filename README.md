@@ -1,22 +1,34 @@
-### Olá! Legal ter você aqui! 👋
+### 👋 Olá, eu sou a Malu!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/maria-luiza-victorio-castelar-rodrigues-625a2b17a/)
+Seja bem-vindo(a) ao meu GitHub!
+
+Sou uma desenvolvedora com alma artística — apaixonada por código, literatura, cinema e viagens. Por aqui, você vai encontrar projetos que misturam tecnologia com sensibilidade e criatividade.
+
+## 🛠️ Tecnologias com as quais trabalho
+**Frontend:** React · Remix · Vite · TailwindCSS · Shadcn · Aceternity  
+**Backend:** Node.js · Express · API REST  
+**Linguagens:** TypeScript · JavaScript  
+**Outros:** Git · GitHub · Vercel · Figma · Postman
+
+## 🌌 Projetos em destaque
+- [**ML Challenge - Star Wars**](https://ml-challenge-beta.vercel.app): Listagem de personagens e planetas da SWAPI, com filtros, detalhes e modo escuro/claro.
+- *Outros projetos virão em breve...*
+
+## 🎭 Outras facetas
+Além da programação, também sou:
+- Escritora e atriz nas horas de respiro.
+- Entusiasta de arte, cinema e psicanálise.
+- Curiosa incansável e amante de conversas profundas.
+
+## ☕ Vamos conversar?
+Sinta-se à vontade para me chamar para trocar ideias, colaborar ou só dar um alô!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mluiza-vcr)
+[![Email](https://img.shields.io/badge/Email-mar%C3%A9@exemplo.com-red?style=flat&logo=gmail)](mailto:mluiza.vcr@gmail.com)
+
 ---
 
-<h3>Meu nome é Maria Luiza Rodrigues, sou de São Paulo - capital!
-Sou formada no curso de desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank" rel="nofollow" style="color:#04AA6D">Trybe</a>, tendo concluído os blocos de fundamentos do desenvolvimento web, front-end e back-end, em  intensa aprendizagem.<h3>
-<h3>Algumas coisas sobre mim</h5>
-<li> Meus hobbies 🤩 Gosto muito de ler livros e peças de teatro, assistir séries, viajar e fazer teatro </li>
-<li>Tenho muita vontade de conhecer lugares misteriosos pelo mundo</li>
-<li>Sou uma pessoa muito comunicativa e sociável</li>
-<li>Para entrar em contato comigo por favor me envie um email: 📫 mluiza.vcr@gmail.com</li>
+✨ *Obrigada por passar por aqui. Que o código seja leve e as ideias, profundas.*
   
 ---
-
-<h3>Linguagens e ferramentas</h3>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> ![ContextAPI](https://img.shields.io/badge/ContextAPI-0000FF?style=for-the-badge&logo=React&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=Mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=MongoDB&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.JS-2E8B57?style=for-the-badge&logo=Node.JS&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-323330?logo=javascript&style=for-the-badge&logoColor=F7DF1E) ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mluiza-vcr&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mluiza-vcr)](https://github.com/mluiza-vcr/github-readme-stats)  
 
