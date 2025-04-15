@@ -24,7 +24,7 @@ Além da programação, também sou:
 Sinta-se à vontade para me chamar para trocar ideias, colaborar ou só dar um alô!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mluiza-vcr)
-[![Email](https://img.shields.io/badge/Email-mar%C3%A9@exemplo.com-red?style=flat&logo=gmail)](mailto:mluiza.vcr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mluiza.vcr@gmail.com-red?style=flat&logo=gmail)](mailto:mluiza.vcr@gmail.com)
 
 ---
 
